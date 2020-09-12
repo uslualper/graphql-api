@@ -1,2 +1,2 @@
 # graphql-test
-Tesst API
+Test API
