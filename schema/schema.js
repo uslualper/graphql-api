@@ -45,6 +45,7 @@ const DirectorType = new GraphQLObjectType({
         }
     })
 }); 
+
 //veri çekme
 const RootQuery = new GraphQLObjectType({
     name:'RootQueryType',
